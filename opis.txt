@@ -1,0 +1,16 @@
+Kalkulator mo¿na u¿ywaæ na 2 sposoby:
+1) podaj¹c po jednej liczbie oraz jednym znaku, klikajac po ka¿dym 
+wprowaddzeniu enter np.:
+5
++
+10
+*
+11
+=
+2)wprowadzaja wszystkie liczby oraz znaki ze spacj¹ np.:
+11 * 15 + 20 / 4 + 5 * 5 =
+10 * 10 * 10 / 2 * 2 * 2 / 2 + 2 - 5 =
+6 * 6 / 3 * 2 * 2 =
+Uwaga. Kalkulator ten bêdzie pokazywa³ b³êdne wyniki w przypaddku kiedy
+u¿ytkownik bêdzie jako liczby u¿ywa³ 0 np.:
+5 * 0 + 10 / 2 + 0 * 15 + 20 =
